@@ -4,12 +4,7 @@ Vizo is a video sharing app that allows users to upload videos and watch content
 
 ### Screenshots
 
-<img src="preview/welcome.png" height="300">
-<img src="preview/sign-up.png" height="300">
-<img src="preview/home.png" height="300">
-<img src="preview/search.png" height="300">
-<img src="preview/create.png" height="300">
-<img src="preview/profile.png" height="300">
+<img src="preview/welcome.png" height="300"><img src="preview/sign-up.png" height="300"><img src="preview/home.png" height="300"><img src="preview/search.png" height="300"><img src="preview/create.png" height="300"><img src="preview/profile.png" height="300">
 
 ### Tech Stack
 
